@@ -71,4 +71,4 @@ If you want to assert or control something, for example, errors: assert.doesNotT
 
 ### 5. Learn more about node-postgres
 
-<a href="https://node-postgres.com/"><img src="https://img.shields.io/badge/Node--pg%20API-https://node-postgres.com/-blue" alt="Node-pg API"></a>
+<a href="https://node-postgres.com/"><img src="https://img.shields.io/badge/Node--pg_API-Documentation-blue" alt="Node-pg API"></a>
