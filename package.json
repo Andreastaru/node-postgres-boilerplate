@@ -1,0 +1,30 @@
+{
+    "name": "postgres-boilerplate",
+    "version": "1.0.0",
+    "description": "Boilerplate for running tests against Postgres Database",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --spec test/specs/test.spec.js",
+        "tests": "mocha --spec test/specs/*.spec.js"
+    },
+    "keywords": [
+        "PostgreSQL",
+        "Mocha",
+        "Node",
+        "Testing"
+    ],
+    "author": "Andreas",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/mocha": "^10.0.7",
+        "@types/node": "^20.14.10",
+        "@types/pg": "^8.11.6",
+        "del": "^7.1.0",
+        "lodash": "^4.17.21",
+        "mocha": "^10.6.0",
+        "mochawesome": "^7.1.3",
+        "pg": "^8.12.0",
+        "prettier": "^3.3.2",
+        "tslog": "^3.3.4"
+    }
+}
