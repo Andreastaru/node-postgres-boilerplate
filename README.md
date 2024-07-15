@@ -67,7 +67,7 @@ Use the test directory to store your test files and keep them separate from the 
 
 ### 4. Asserting and Controlling
 
-If you want to assert or control something, for example, errors: assert.doesNotThrow(db.yourQuery()), I recommend installing chai: npm install --save-dev chai.
+If you want to assert or control something, for example, errors: assert.doesNotThrow(db.yourQuery()), I recommend installing chai: `npm install --save-dev chai`
 
 ### 5. Learn more about node-postgres
 
